@@ -1,3 +1,3 @@
-rg_name = "rg-my-application"
+rg_name      = "rg-my-application"
 azure_region = "westeurope"
-environment = "dev"
+environment  = "dev"
